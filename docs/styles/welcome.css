@@ -46,7 +46,7 @@ html, body {
     animation: logoAnimation 1s;
     animation-timing-function:  cubic-bezier(0.08, 0.82, 0.165, 1);
     animation-fill-mode: backwards;
-    animation-delay: 0.7s;
+    animation-delay: 0.5s;
 }
 
 @keyframes logoAnimation {
