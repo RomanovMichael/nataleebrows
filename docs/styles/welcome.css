@@ -102,6 +102,7 @@ html, body {
 
 }
 .btn {
+    font-size: 14px;
     font-weight: 400;
     text-decoration: none;
     text-transform: uppercase;
