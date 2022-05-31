@@ -117,7 +117,7 @@ html, body {
     color: #EBE1D1;
 
     border: 1px solid transparent;
-    box-shadow:   0 0 10px  rgba(255, 201, 2, 1),  inset 0 0 5px -1px rgba(57,40,40);
+    box-shadow:   0 0 10px  rgba(201, 152, 2),  inset 0 0 5px -1px rgba(57,40,40);
     transition: 0.3s;
 
 }
