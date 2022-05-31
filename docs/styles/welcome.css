@@ -45,7 +45,8 @@ html, body {
     align-items: center;
     animation: logoAnimation 1s;
     animation-timing-function:  cubic-bezier(0.08, 0.82, 0.165, 1);
-    
+    animation-fill-mode: backwards;
+    animation-delay: 0.7s;
 }
 
 @keyframes logoAnimation {
@@ -68,7 +69,7 @@ html, body {
     justify-content: center;
     align-items: center;
     animation: centralAnimation 2s;
-    animation-delay: 1.4s;
+    animation-delay: 1.7s;
     animation-fill-mode: backwards;
 }
 
